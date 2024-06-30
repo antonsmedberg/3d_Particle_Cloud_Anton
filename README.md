@@ -4,6 +4,8 @@
 
 Avancerad 3D Neural Network Partikelmoln är ett visualiseringsverktyg som simulerar ett partikelmoln i ett 3D-utrymme. Det använder Three.js för rendering och DAT.GUI för användargränssnittskontroller. Verktyget låter användare manipulera olika parametrar för partikelsystemet och dess anslutningar, vilket erbjuder en visuellt tilltalande och interaktiv upplevelse.
 
+![Partikelmoln Visualisering](https://github.com/<användarnamn>/<repo>/blob/main/assets/visualization.gif?raw=true)
+
 ## Funktioner
 
 - **3D Partikelmoln**: Visualiserar partiklar i ett 3D-utrymme.
